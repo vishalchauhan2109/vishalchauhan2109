@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently working at Essentia.dev<br>I am pursuing Btech in CSE from GGSIPU<br>
+I currently working at Essentia.dev<br>I am pursuing Btech in CSE(2022-26) from GGSIPU<br>
 
 
 ## 🌐 Socials:
