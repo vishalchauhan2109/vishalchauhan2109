@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently working at Essentia.dev<br>I am pursuing Btech in CSE(2022-26) from GGSIPU<br>
+MERN Stack Developer with strong experience in building scalable and high-performance web applications using MongoDB, Express.js, React.js, and Node.js. Proficient in developing modern Single Page Applications (SPA) using React.js with component-based architecture, reusable UI components, and efficient state management using Redux and Redux Toolkit. Skilled in creating responsive and user-friendly web interfaces using JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, and Bootstrap. Experienced in integrating RESTful APIs, handling asynchronous operations using Axios and Fetch API, and managing secure client-server communication in full stack applications. Hands-on experience in backend development using Node.js and Express.js, building scalable REST APIs, implementing authentication flows, and managing NoSQL databases with MongoDB. Strong understanding of application performance optimization, debugging, and clean code practices.
 
 
 ## 🌐 Socials:
